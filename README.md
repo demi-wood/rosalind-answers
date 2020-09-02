@@ -16,8 +16,8 @@ id - problem_name
 
 There are three files in every folder:
 
-⋅⋅* The code solving the solution to the problem.
-⋅⋅* The data provided by Rosalind.
-⋅⋅* The solution created by the code.
+* The code solving the solution to the problem.
+* The data provided by Rosalind.
+* The solution created by the code.
 
 Note that some of the earlier problems do not contain a file with the solution as the answer was very short and easier to copy and paste into the Rosalind website.
