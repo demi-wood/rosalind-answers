@@ -2,7 +2,7 @@
 
 My solutions to the bioinformatics problems found on the Rosalind using python.
 
-My Rosalind profile: [http://rosalind.info/users/demi/]
+My Rosalind profile: http://rosalind.info/users/demi/
 
 ***********************************************************************************************************************************************************************************
 
